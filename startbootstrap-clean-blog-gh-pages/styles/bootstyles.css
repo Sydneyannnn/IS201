@@ -1,0 +1,14 @@
+.header {
+    resize: both;
+    overflow: auto;
+    background-color:antiquewhite;
+}
+
+.body {
+    position: absolute;
+    background-color:antiquewhite;
+}
+
+.footer {
+    background-color: antiquewhite;
+}
