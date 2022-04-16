@@ -1,16 +1,19 @@
 p{
     font-family: 'Courier New', Courier, monospace;
 }
+
 ol{
     font-family: 'Courier New', Courier, monospace;
 }
+
 h1{
-    font:italic;
+    text-decoration:underline;
 }
+
 a{
-    font:bold;
+    font-weight:bold;
 }
 
 button{
-    font:italic;
+    font-style:italic;
 }

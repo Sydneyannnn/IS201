@@ -1,14 +1,27 @@
-.header {
-    resize: both;
-    overflow: auto;
-    background-color:antiquewhite;
+head {
+    background-color:whitesmoke;
+    resize: vertical;
+    resize: horizontal;
 }
 
-.body {
-    position: absolute;
-    background-color:antiquewhite;
+body {
+    background-color:whitesmoke;
+    resize: vertical;
+    resize: horizontal;
 }
 
-.footer {
-    background-color: antiquewhite;
+footer {
+    background-color:whitesmoke;
+    resize: vertical;
+    resize: horizontal;
+}
+
+h5{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
